@@ -121,17 +121,3 @@ set noswapfile
 ```
 
 ---
-
-## Useful Commands
-
-| Command | Description |
-|-------|-------------|
-| `:PlugInstall` | Install plugins |
-| `:PlugUpdate` | Update plugins |
-| `:PlugClean` | Remove unused plugins |
-
----
-
-## License
-
-Free to use and modify.
